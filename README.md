@@ -73,3 +73,7 @@ For this example, I use everyone as an example for how to give permissions in os
 Successful install!
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/HW75zwU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
