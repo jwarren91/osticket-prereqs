@@ -65,3 +65,11 @@ Download osTicket and make sure to put the file in the necessary folder. Once th
 For this example, I use everyone as an example for how to give permissions in osTicket. When setting up a live osTicket, do not give everyone permissions.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/q2XhZ3t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Successful install!
+</p>
+<br />
