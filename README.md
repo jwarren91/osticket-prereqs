@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install Prerequisite files for osticket setup
 - Run ISS as an administrator
 - Install osTicket
-- Item 5
+- Permissions
 
 <h2>Installation Steps</h2>
 
@@ -59,9 +59,9 @@ Download osTicket and make sure to put the file in the necessary folder. Once th
 <br />
 
 <p>
-<img src="https://i.imgur.com/d4ndGc2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RlqDy7m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After downloading the necessary files, run IIS as an admin.
+For this example, I use everyone as an example for how to give permissions in osTicket. When setting up a live osTicket, do not give everyone permissions.
 </p>
 <br />
