@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Create your virtual machine in Azure
-- Item 2
+- Install Prerequisite files for osticket setup
 - Item 3
 - Item 4
 - Item 5
@@ -29,16 +29,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/SVnRisB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here is where you will create your virtual machine in Azure. Name the virtual machine with something that you can remember and also enable a user name and password.
+Here is where you will create your virtual machine in Azure. Name the virtual machine with something that you can remember and also enable a user name and password. The user name and password are for when you sign into your Remote Desktop Connection.
 Use whichever region is availalbe or recommended for your area.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jXRNITD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here is where you will install the necessary files in your virtual machine after signing into your Remote Desktop Connection.
 </p>
 <br />
 
