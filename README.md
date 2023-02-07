@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create your virtual machine in Azure
 - Install Prerequisite files for osticket setup
 - Run ISS as an administrator
-- Item 4
+- Install osTicket
 - Item 5
 
 <h2>Installation Steps</h2>
@@ -39,6 +39,22 @@ Use whichever region is availalbe or recommended for your area.
 </p>
 <p>
 Here is where you will install the necessary files in your virtual machine after signing into your Remote Desktop Connection.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/d4ndGc2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After downloading the necessary files, run IIS as an admin.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/K7tHjSo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download osTicket and make sure to put the file in the necessary folder. Once this is done, you will have osTicket officially on your Remote Desktop Connection. From here you can move on to assign permissions for users.
 </p>
 <br />
 
