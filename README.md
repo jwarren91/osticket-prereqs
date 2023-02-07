@@ -51,7 +51,7 @@ After downloading the necessary files, run IIS as an admin.
 <br />
 
 <p>
-<img src="https://i.imgur.com/K7tHjSo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gtfIsls.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download osTicket and make sure to put the file in the necessary folder. Once this is done, you will have osTicket officially on your Remote Desktop Connection. From here you can move on to assign permissions for users.
